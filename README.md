@@ -3,8 +3,8 @@ Used for testing network benchmark by downloading a video (and also any file), m
 
 
 Tablet or STB.<br>
-![tablet|stb](Screenshot_2015-10-19-10-34-09.png)
+![tablet|stb](art/Screenshot_2015-10-19-10-34-09.png)
 
 Phone.<br>
-![image1](VideoDownloadTester.gif)
+![image1](art/VideoDownloadTester.gif)
 
